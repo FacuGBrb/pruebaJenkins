@@ -1,0 +1,8 @@
+com/swagger/test1/advicer/SimpleAdvicer.class
+com/swagger/test1/Test1Application.class
+com/swagger/test1/service/impl/UserServiceImpl.class
+com/swagger/test1/controller/SimpleController.class
+com/swagger/test1/configuration/SwaggerConfig.class
+com/swagger/test1/repository/UserRepository.class
+com/swagger/test1/model/User.class
+com/swagger/test1/service/UserService.class

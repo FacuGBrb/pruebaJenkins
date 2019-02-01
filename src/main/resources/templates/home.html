@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>No place like home</p>
+    <div th:object="${user}">
+        <p>User information</p>
+        <ul th:text="*{firstName}"></ul>
+        <ul th:text="*{lastName}"></ul>
+        <ul th:text="*{mail}"></ul>
+    </div>
+</body>
+</html>
